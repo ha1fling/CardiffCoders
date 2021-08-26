@@ -1,3 +1,4 @@
 <template>
-  <h1>Home Page</h1>
+  <h1>Cardiff Coders</h1>
+  <p>Website Coming Soon!</p>
 </template>
